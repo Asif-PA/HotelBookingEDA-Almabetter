@@ -49,10 +49,10 @@ Clean the dataset by removing any missing values, outliers, or errors. Preproces
 ### Step 3: Exploratory Data Analysis
 
 <hr>
-### Step 5: Results and Conclusion
+### Step 4: Results and Conclusion
 Present the results of the classification. Discuss the implications of the results and their potential impact on investors. Provide conclusions and suggestions for future research.
 
-<hr>
+
 
 
 
